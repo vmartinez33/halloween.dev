@@ -3,16 +3,41 @@
 </h1>
 
 <div align=center>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 <br />
 
-Este repositorio contiene mis soluciones para los retos de [Halloween.dev](https://www.halloween.dev), iniciativa del Creador de Contenido e Ingeniero de Software *[midudev](https://www.linkedin.com/in/midudev/)*.
+This repository contains my solutions for the challenges of <a href="https://www.halloween.dev" target="_blank">halloween.dev</a>, initiative of Content Creator and Software Engineer *<a href="https://www.linkedin.com/in/midudev/" target="_blank">midudev</a>*.
 
 ## Retos 2024
-- Reto #1: 🧙‍♀️ Crea la poción perfecta
-- Reto #2: 🧟 Horda de zombies
-- Reto #3: 🛌 Escapa de la pesadilla de Freddy
-- Reto #4: 🔪 Encuentra al asesino
-- Reto #5: ▲ Terror en Silent Hill
+<details>
+    <summary>Reto #1: 🧙‍♀️ Create the perfect potion</summary>
+    <br />
+    <img src="https://raw.githubusercontent.com/vmartinez33/halloween.dev/refs/heads/main/2024/Reto1.png" />
+    <br /><br />
+</details>
+<details>
+    <br />
+    <summary>Reto #2: 🧟 Zombie horde</summary>
+    <img src="https://raw.githubusercontent.com/vmartinez33/halloween.dev/refs/heads/main/2024/Reto2.png" />
+    <br /><br />
+</details>
+<details>
+    <br />
+    <summary>Reto #3: 🛌 Escape from Freddy's nightmare</summary>
+    <img src="https://raw.githubusercontent.com/vmartinez33/halloween.dev/refs/heads/main/2024/Reto3.png" />
+    <br /><br />
+</details>
+<details>
+    <br />
+    <summary>Reto #4: 🔪 Find the killer</summary>
+    <img src="https://raw.githubusercontent.com/vmartinez33/halloween.dev/refs/heads/main/2024/Reto4.png" />
+    <br /><br />
+</details>
+<details>
+    <br />
+    <summary>Reto #5: ▲ Terror on Pyramid Head</summary>
+    <img src="https://raw.githubusercontent.com/vmartinez33/halloween.dev/refs/heads/main/2024/Reto5.png" />
+    <br /><br />
+</details>
