@@ -1,5 +1,5 @@
 <h1 align=center>
-    Halloween.dev Codign Challenges
+    Halloween.dev Coding Challenges
 </h1>
 
 <div align=center>
@@ -8,7 +8,7 @@
 </div>
 <br />
 
-This repository contains my solutions for the challenges of <a href="https://www.halloween.dev" target="_blank">halloween.dev</a>, initiative of Content Creator and Software Engineer *<a href="https://www.linkedin.com/in/midudev/" target="_blank">midudev</a>*.
+This repository contains my solutions for the challenges of <a href="https://www.halloween.dev/en" target="__blank">halloween.dev</a>, initiative of Content Creator and Software Engineer *<a href="https://www.linkedin.com/in/midudev/" target="__blank">midudev</a>*.
 
 ## Retos 2024
 <details>
