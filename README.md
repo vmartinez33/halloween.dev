@@ -1,5 +1,5 @@
 <h1 align=center>
-    Retos de Halloween.dev
+    Halloween.dev Codign Challenges
 </h1>
 
 <div align=center>
