@@ -10,7 +10,7 @@
 
 This repository contains my solutions for the challenges of <a href="https://www.halloween.dev/en" target="__blank">halloween.dev</a>, initiative of Content Creator and Software Engineer *<a href="https://www.linkedin.com/in/midudev/" target="__blank">midudev</a>*.
 
-## Retos 2024
+## Challenges 2024
 <details>
     <summary>Reto #1: 🧙‍♀️ Create the perfect potion</summary>
     <br />
