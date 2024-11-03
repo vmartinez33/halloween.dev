@@ -12,32 +12,32 @@ This repository contains my solutions for the challenges of <a href="https://www
 
 ## Challenges 2024
 <details>
-    <summary>Reto #1: 🧙‍♀️ Create the perfect potion</summary>
+    <summary>Challenge #1: 🧙‍♀️ Create the perfect potion</summary>
     <br />
     <img src="https://raw.githubusercontent.com/vmartinez33/halloween.dev/refs/heads/main/2024/Reto1.png" />
     <br /><br />
 </details>
 <details>
     <br />
-    <summary>Reto #2: 🧟 Zombie horde</summary>
+    <summary>Challenge #2: 🧟 Zombie horde</summary>
     <img src="https://raw.githubusercontent.com/vmartinez33/halloween.dev/refs/heads/main/2024/Reto2.png" />
     <br /><br />
 </details>
 <details>
     <br />
-    <summary>Reto #3: 🛌 Escape from Freddy's nightmare</summary>
+    <summary>Challenge #3: 🛌 Escape from Freddy's nightmare</summary>
     <img src="https://raw.githubusercontent.com/vmartinez33/halloween.dev/refs/heads/main/2024/Reto3.png" />
     <br /><br />
 </details>
 <details>
     <br />
-    <summary>Reto #4: 🔪 Find the killer</summary>
+    <summary>Challenge #4: 🔪 Find the killer</summary>
     <img src="https://raw.githubusercontent.com/vmartinez33/halloween.dev/refs/heads/main/2024/Reto4.png" />
     <br /><br />
 </details>
 <details>
     <br />
-    <summary>Reto #5: ▲ Terror on Pyramid Head</summary>
+    <summary>Challenge #5: ▲ Terror on Pyramid Head</summary>
     <img src="https://raw.githubusercontent.com/vmartinez33/halloween.dev/refs/heads/main/2024/Reto5.png" />
     <br /><br />
 </details>
